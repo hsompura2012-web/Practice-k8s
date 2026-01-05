@@ -19,7 +19,7 @@ spec:
   selector:
     topic: services
   ports:
-    - protocol: tcp
+    - protocol: TCP
       port: 80
       targetPort: 80
 
